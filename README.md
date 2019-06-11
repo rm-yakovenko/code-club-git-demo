@@ -3,5 +3,4 @@
 
 Alex
 Ivan
-
-Download movie on torrent.
+A lot more people! 
