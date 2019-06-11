@@ -2,4 +2,4 @@
 
 
 echo 'Lets drink a beer, WORLD!'
-echo 'But not today!'
+echo 'But not today or today?'
