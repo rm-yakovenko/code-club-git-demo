@@ -1,4 +1,4 @@
 #!/bin/bash
 
 
-echo 'Hello WORLD!'
+echo 'Lets drink a beer, WORLD!'
